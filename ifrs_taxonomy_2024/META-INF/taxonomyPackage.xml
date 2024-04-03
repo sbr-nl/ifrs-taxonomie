@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tp:taxonomyPackage xml:lang="en" xmlns:tp="http://xbrl.org/2016/taxonomy-package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2016/taxonomy-package http://www.xbrl.org/2016/taxonomy-package.xsd">
+	<tp:identifier>https://www.nltaxonomie.nl/ifrs/2024-03-31</tp:identifier>
+	<tp:name>IFRS taxonomy 2024</tp:name>
+	<tp:description>The IFRS Accounting Taxonomy version 24 March 2022 as prepared by the IFRS foundation with labels in additional languages for use in the Netherlands.</tp:description>
+	<tp:version>31 March 2024 (testversion)</tp:version>
+	<tp:publisher>None</tp:publisher>
+	<tp:publisherURL>https://www.nltaxonomie.nl/ifrs</tp:publisherURL>
+	<tp:publisherCountry>NL</tp:publisherCountry>
+	<tp:publicationDate>2024-03-31</tp:publicationDate>
+	<tp:entryPoints>
+		<tp:entryPoint>
+			<tp:name>IFRS core</tp:name>
+			<tp:description>IFRS core schema</tp:description>
+			<tp:entryPointDocument href="https://www.nltaxonomie.nl/ifrs/2024-03-31/ifrs-cor.xsd" />
+		</tp:entryPoint>
+	</tp:entryPoints>
+</tp:taxonomyPackage>
